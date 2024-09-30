@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/8915ab20-b1f7-4030-b9a8-6acf8a60d9ed)# WheelGo
-'휠'은 바퀴를, '고'는 가다의 의미로, 자전거와 킥보드를 대여할 수 있는 시스템
+# WheelGo
+개요 : '휠'은 바퀴를, '고'는 가다의 의미로, 자전거와 킥보드를 대여할 수 있는 시스템
 
 # WheelGo 서버 구조도
 
